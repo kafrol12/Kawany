@@ -1,6 +1,6 @@
 # Oi, tudo bem? Sou nova por aqui, me chamo Kawany😊
 
-- 🦋 Dilema: Nunca vai ser tarde demais, ainda mais se for para aprender. 
+- 🦋 Dilema: Nunca será tarde demais para aprender. 
 - 👩🏽‍💻 Estou trabalhando com: Banco de dados.
 - 📚 Estou aprendendo: HTML, CSS, JavaScript e SQL.
 
